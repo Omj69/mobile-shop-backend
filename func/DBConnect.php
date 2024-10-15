@@ -5,7 +5,7 @@ class Connect
     // Database Connection Properties
     protected $host = 'localhost';
     protected $user = 'root';
-    protected $password = '';
+    protected $password = 'luffy+1000OP';
     protected $database = 'mobileshop';
 
     // connection property
